@@ -3730,3 +3730,11 @@ img.pageTitleWithLogo,
   max-height: 2.5em !important;
   object-fit: contain !important;
 }
+
+.adminDrawerLogo img,
+imgLogoIcon {
+  content: url(https://cdn.jsdelivr.net/gh/MDominicRQ/Logo-Doflix@main/DoFlixP.png?raw=true) !important;
+}
+.pageTitleWithLogo {
+  background-image: url(hhttps://cdn.jsdelivr.net/gh/MDominicRQ/Logo-Doflix@main/DoFlixP.png?raw=true) !important;
+}
