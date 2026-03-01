@@ -1057,7 +1057,7 @@ body {
   margin: auto 30%;
   height: 25vh;
   background-position: bottom;
-  background-image: url("https://raw.githubusercontent.com/MDominicRQ/Logo-Doflix/refs/heads/main/DoFlixP.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/MDominicRQ/Logo-Doflix@main/DoFlixP.png?raw=true");
   background-size: contain;
   background-repeat: no-repeat;
 }
