@@ -3723,7 +3723,10 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense > div:first-child {
 /* --- LOGO PRINCIPAL DEL SERVIDOR JELLYFIN --- */
 /* Cambia la URL por el enlace directo a tu logo en formato PNG o SVG */
 img.pageTitleWithDefaultLogo,
-img.pageTitleWithLogo {
-  content: url("https://cdn.jsdelivr.net/gh/MDominicRQ/Logo-Doflix@main/DoFlixP.png?raw=true") !important;
-  max-height: 2em; /* Ajusta el tamaño si es necesario */
+img.pageTitleWithLogo,
+.headerLogo img,
+.headerLogo {
+  content: url("https://raw.githubusercontent.com/MDominicRQ/Logo-Doflix/ea60d235eb9103e71c0421725efbd4e758fad35a/DoFlixP.png") !important;
+  max-height: 2.5em !important;
+  object-fit: contain !important;
 }
