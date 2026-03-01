@@ -3726,7 +3726,7 @@ img.pageTitleWithDefaultLogo,
 img.pageTitleWithLogo,
 .headerLogo img,
 .headerLogo {
-  content: url("https://raw.githubusercontent.com/MDominicRQ/Logo-Doflix/ea60d235eb9103e71c0421725efbd4e758fad35a/DoFlixP.png") !important;
+  content: url("https://cdn.jsdelivr.net/gh/MDominicRQ/Logo-Doflix@main/DoFlixP.png?raw=true") !important;
   max-height: 2.5em !important;
   object-fit: contain !important;
 }
