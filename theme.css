@@ -1,7 +1,4 @@
 /* ElegantFin Theme v25.12.31 for Jellyfin by lscambo13 */
-/* LOGO: La regla `.detailLogo` controla el logo en la página de detalle.
-Busca `.detailLogo` más abajo en este archivo para cambiar el logo.
-Revisa también las variables en `:root` como `--clearLogoVisibility`. */
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 
@@ -1060,7 +1057,7 @@ body {
   margin: auto 30%;
   height: 25vh;
   background-position: bottom;
-  background-image: url("https://raw.githubusercontent.com/MDominicRQ/Logo-Doflix/ea60d235eb9103e71c0421725efbd4e758fad35a/DoFlixP.png");
+  background-image: url("https://raw.githubusercontent.com/MDominicRQ/Logo-Doflix/refs/heads/main/DoFlixP.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
